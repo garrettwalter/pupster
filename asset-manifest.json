@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/pupster/static/js/main.1ebd3ee6.chunk.js",
+    "main.js.map": "/pupster/static/js/main.1ebd3ee6.chunk.js.map",
+    "runtime-main.js": "/pupster/static/js/runtime-main.69aa7adf.js",
+    "runtime-main.js.map": "/pupster/static/js/runtime-main.69aa7adf.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/pupster/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.97e231d6.chunk.js": "/pupster/static/js/2.97e231d6.chunk.js",
+    "static/js/2.97e231d6.chunk.js.map": "/pupster/static/js/2.97e231d6.chunk.js.map",
+    "index.html": "/pupster/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/pupster/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/js/2.97e231d6.chunk.js.LICENSE.txt": "/pupster/static/js/2.97e231d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69aa7adf.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.97e231d6.chunk.js",
+    "static/js/main.1ebd3ee6.chunk.js"
+  ]
+}
