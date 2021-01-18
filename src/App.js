@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route} from "react-router-dom";
+import { HashRouter as Router, Route} from "react-router-dom";
 
 import Discover from "./containers/Discover/Discover";
 import Search from "./containers/Search/Search";
@@ -9,7 +9,7 @@ import Home from "./containers/Home/Home";
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/">
             <NavTabs />
             <Route exact path="/" component={Home} />
             <Route exact path="/about" component={About} />
